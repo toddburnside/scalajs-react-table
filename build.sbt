@@ -2,8 +2,8 @@ name := "scalajs-react-table"
 
 Global / onChangedBuildSource := ReloadOnSourceChanges
 
-val reactTable           = "7.6.3"
-val reactTableTypes      = "7.0.29"
+val reactTable           = "7.7.0"
+val reactTableTypes      = "7.7.0"
 val scalaJsReact         = "1.7.7"
 val reactJS              = "16.13.1"
 val reactTypes           = "16.14.0"
